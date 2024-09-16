@@ -1,0 +1,22 @@
+
+Summary of Analysis:
+
+What this analysis is looking at is the comparison between different schools in a district. It compares the schools math scores, reading scores, and overall scores against one another based on several different factors
+
+these factors include school size, the amount of money spent per student, and the type of school (charter vs district). 
+
+
+
+Conclusions:
+
+From looking at the data, a few different conclusions can be drawn. It appears that schools that have a small population tend to have better scores across the board than large schools, while small schools and medium schools have very 
+
+similar scores. When looking at money spent per student, it appears that the schools that spend the least tend to have the highest overall scores while schools that spend the most come in second. The schools that spend in the middle two 
+
+spending bins perform the lowest. Lastly, there is a large difference in the performance between district schools and charter schools with the charter schools vastly out performing the district schools. It is possible that the Charter 
+
+schools are also smaller and spend less money per student than the district schools, which would help explain why the smaller schools that spend the least have the highest overall scores. In order to make sure there is a clear pattern of 
+
+performance in the data, it must be looked at more closely to make sure that one variable is not skewing the data on our other variables. From just the data we have been given, it appears that the biggest contributing factor to success is 
+
+whether the student attended a charter or district school.
