@@ -78,7 +78,7 @@ Use the code provided below to create four bins with reasonable cutoff values to
 
 Use pd.cut to categorize spending based on the bins.
 
-Use the following code to then calculate mean scores per spending range.
+Use the code to then calculate mean scores per spending range.
 
 Use pd.cut to categorize spending based on the bins.
 
